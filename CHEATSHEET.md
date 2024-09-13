@@ -1,0 +1,3 @@
+# WinDBG Cheat sheet
+
+## Terminology
